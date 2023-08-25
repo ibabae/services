@@ -1,0 +1,641 @@
+<!doctype html>
+<html class="no-js" lang="zxx" dir="rtl">
+
+
+<!-- Mirrored from theme-preview.ir/html/plumer/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 20:14:53 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Plumer - قالب HTML - خدمات لوله بازکنی و تاسیسات </title>
+    <meta name="author" content="Plumer">
+    <meta name="description" content="Plumer - Plumbing & Repair HTML Template">
+    <meta name="keywords" content="Plumer - Plumbing & Repair HTML Template">
+    <meta name="robots" content="INDEX,FOLLOW">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="assets/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+    <!-- Slick Slider -->
+    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+
+    <!--[if lte IE 9]>
+    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+
+
+    <!--********************************
+   		Code Start From Here 
+	******************************** -->
+
+
+
+
+    <!--==============================
+     Preloader
+  ==============================-->
+    <div class="preloader ">
+        <button class="themeholy-btn style3 preloaderCls">لغو پیش بارگذاری </button>
+        <div class="preloader-inner">
+            <span class="loader"></span>
+        </div>
+    </div>
+    <!--==============================
+    Sidemenu
+============================== -->
+    <div class="sidemenu-wrapper d-none d-lg-block ">
+        <div class="sidemenu-content">
+            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
+            <div class="widget woocommerce widget_shopping_cart">
+                <h3 class="widget_title">سبد خرید</h3>
+                <div class="widget_shopping_cart_content">
+                    <ul class="woocommerce-mini-cart cart_list product_list_widget ">
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="assets/img/product/product_thumb_1_1.jpg" alt="Cart Image">سوئیچ
+                                کن</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 940 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="assets/img/product/product_thumb_1_2.jpg" alt="Cart Image">شیر سینک
+                                حمام</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 899 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="assets/img/product/product_thumb_1_3.jpg" alt="Cart Image">سینک
+                                بوش</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 756 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="assets/img/product/product_thumb_1_4.jpg" alt="Cart Image">آچار لوله
+                                قرمز</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 723 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="assets/img/product/product_thumb_1_5.jpg" alt="Cart Image">اهرم پیچ
+                                استنلی</a>
+                            <span class="quantity">3 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 108 </span> هزار تومان
+                            </span>
+                        </li>
+                    </ul>
+                    <p class="woocommerce-mini-cart__total total">
+                        <strong>جمع کل :</strong>
+                        <span class="woocommerce-Price-amount amount">
+                            <span class="woocommerce-Price-currencySymbol"></span> 4/742 </span> هزار تومان
+                    </p>
+                    <p class="woocommerce-mini-cart__buttons buttons">
+                        <a href="cart.html" class="themeholy-btn wc-forward"> مشاهده سبد خرید </a>
+                        <a href="checkout.html" class="themeholy-btn checkout wc-forward">تسویه حساب</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="popup-search-box d-none d-lg-block">
+        <button class="searchClose"><i class="fal fa-times"></i></button>
+        <form action="#">
+            <input type="text" placeholder="دنبال چه چیزی می گردید؟">
+            <button type="submit"><i class="fal fa-search"></i></button>
+        </form>
+    </div>
+    <!--==============================
+    Mobile Menu
+  ============================== -->
+    <div class="themeholy-menu-wrapper">
+        <div class="themeholy-menu-area text-center">
+            <button class="themeholy-menu-toggle"><i class="fal fa-times"></i></button>
+            <div class="mobile-logo">
+                <a href="home-plumbing-service.html"><img src="assets/img/logo.svg" alt="Plumer"></a>
+            </div>
+            <div class="themeholy-mobile-menu">
+                <ul>
+                    <li class="menu-item-has-children">
+                        <a href="home-plumbing-service.html">خانه</a>
+                        <ul class="sub-menu">
+                            <li><a href="home-plumbing-service.html">خدمات تاسیسات و لوله بازکنی </a></li>
+                            <li><a href="home-air-conditioner.html">تهویه هوا</a></li>
+                            <li><a href="home-electrician.html"> تکنسین برق </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="about.html">درباره ما</a></li>
+                    <li class="menu-item-has-children">
+                        <a href="#">خدمات</a>
+                        <ul class="sub-menu">
+                            <li><a href="service.html">خدمات</a></li>
+                            <li><a href="service-details.html"> جزئیات خدمات</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a href="#">برگه ها</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item-has-children">
+                                <a href="#">فروشگاه آنلاین</a>
+                                <ul class="sub-menu">
+                                    <li><a href="shop.html">فروشگاه</a></li>
+                                    <li><a href="shop-details.html">صفحه تکی فروشگاه</a></li>
+                                    <li><a href="cart.html"> صفحه سبد خرید</a></li>
+                                    <li><a href="checkout.html">تسویه حساب</a></li>
+                                    <li><a href="wishlist.html">علاقه مندی ها</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="team.html">تیم ما</a></li>
+                            <li><a href="team-details.html">صفحه تکی تیم ما</a></li>
+                            <li><a href="project.html">پروژه ها</a></li>
+                            <li><a href="project-details.html">جزئیات پروژه</a></li>
+                            <li><a href="pricing.html">قیمت گذاری</a></li>
+                            <li><a href="faq.html">قوانین و مقررات</a></li>
+                            <li><a href="error.html"> صفحه خطا 404</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a href="#">وبلاگ</a>
+                        <ul class="sub-menu">
+                            <li><a href="blog.html">وبلاگ</a></li>
+                            <li><a href="blog-details.html">صفحه تکی نوشته</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="contact.html">تماس با ما</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="themeholy-header header-layout1 header-layout2">
+        <div class="header-top">
+            <div class="container themeholy-container">
+                <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
+                    <div class="col-auto d-none d-lg-block">
+                        <p class="header-notice"> به وبسایت شرکت <span class="text-theme"> Plumer </span> ارائه دهنده
+                            خدمات لوله کشی خوش آمدید</p>
+                    </div>
+                    <div class="col-auto">
+                        <div class="header-links">
+                            <ul>
+                                <li><i class="fal fa-clock"></i>ساعت کاری دفتر: شنبه تا پنجشنبه / 9 صبح الی 6 بعدازظهر
+                                </li>
+                                <li>
+                                    <div class="social-links">
+                                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                                        <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sticky-wrapper">
+            <!-- Main Menu Area -->
+            <div class="menu-area">
+                <div class="container themeholy-container">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-auto">
+                            <div class="header-logo">
+                                <a href="home-plumbing-service.html"><img src="assets/img/logo.svg" alt="Plumer"></a>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="menu-top d-none d-xl-block">
+                                <div class="row justify-content-between align-items-center">
+                                    <div class="col-auto">
+                                        <div class="header-info">
+                                            <div class="icon-btn">
+                                                <i class="fas fa-phone"></i>
+                                            </div>
+                                            <div class="media-body">
+                                                <span class="header-info_label">تماس با ما:</span>
+                                                <a href="tel:+16326543654" class="header-info_link">021-12345678</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <div class="header-info">
+                                            <div class="icon-btn">
+                                                <i class="fas fa-messages"></i>
+                                            </div>
+                                            <div class="media-body">
+                                                <span class="header-info_label">پست الکترونیک: </span>
+                                                <a href="mailto:info@plumer.com"
+                                                    class="header-info_link">info@plumer.com</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-auto">
+                                        <div class="header-info">
+                                            <div class="icon-btn">
+                                                <i class="fas fa-location-dot"></i>
+                                            </div>
+                                            <div class="media-body">
+                                                <span class="header-info_label">آدرس دفتر مرکزی: </span>
+                                                <a href="#" class="header-info_link"> تهران،اقدسیه ساختمان45</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-auto d-none d-xxl-block">
+                                        <a href="contact.html" class="themeholy-btn style4">دریافت مشاوره</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="menu-wrap">
+                                <div class="row">
+                                    <div class="col text-end text-xl-start">
+                                        <nav class="main-menu d-none d-lg-inline-block">
+                                            <ul>
+                                                <li class="menu-item-has-children">
+                                                    <a href="home-plumbing-service.html">صفحه اصلی</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="home-plumbing-service.html"> خدمات لوله بازکنی و
+                                                                تاسیسات</a></li>
+                                                        <li><a href="home-air-conditioner.html">تهویه هوا</a></li>
+                                                        <li><a href="home-electrician.html">تکنسین برق</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="about.html">درباره ما</a></li>
+                                                <li class="menu-item-has-children">
+                                                    <a href="#">خدمات</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="service.html">خدمات</a></li>
+                                                        <li><a href="service-details.html">صفحه تکی خدمات</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item-has-children">
+                                                    <a href="#">برگه ها</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item-has-children">
+                                                            <a href="#">فروشگاه آنلاین</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="shop.html">محصولات</a></li>
+                                                                <li><a href="shop-details.html">صفحه تکی محصولات</a>
+                                                                </li>
+                                                                <li><a href="cart.html">سبد خرید</a></li>
+                                                                <li><a href="checkout.html">تسویه حساب</a></li>
+                                                                <li><a href="wishlist.html">صفحه محصولات نشان شده</a>
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li><a href="team.html">تیم ما</a></li>
+                                                        <li><a href="team-details.html">صفحه تکی تیم ما</a></li>
+                                                        <li><a href="project.html">پروژه ها</a></li>
+                                                        <li><a href="project-details.html">صفحه جزییات پروژه</a></li>
+                                                        <li><a href="pricing.html">تعرفه خدمات</a></li>
+                                                        <li><a href="faq.html">صفحه قوانین و مقررات</a></li>
+                                                        <li><a href="error.html">صفحه خطا 404</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item-has-children">
+                                                    <a href="#">وبلاگ</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="blog.html">نوشته ها</a></li>
+                                                        <li><a href="blog-details.html">صفحه تکی نوشته</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="contact.html">تماس با ما</a>
+                                                </li>
+                                            </ul>
+                                        </nav>
+                                        <button type="button" class="themeholy-menu-toggle d-block d-lg-none"><i
+                                                class="far fa-bars"></i></button>
+                                    </div>
+                                    <div class="col-auto d-none d-xl-block">
+                                        <div class="header-button">
+                                            <button type="button" class="icon-btn searchBoxToggler"><i
+                                                    class="far fa-search"></i></button>
+                                            <button type="button" class="icon-btn sideMenuToggler">
+                                                <i class="far fa-shopping-cart"></i>
+                                                <span class="badge">5</span>
+                                            </button>
+                                            <a href="wishlist.html" class="icon-btn">
+                                                <i class="far fa-heart"></i>
+                                                <span class="badge">4</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="logo-bg"></div>
+            </div>
+        </div>
+    </header>
+    <!--==============================
+    Breadcumb
+============================== -->
+    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcumb-bg.jpg">
+        <div class="container">
+            <div class="breadcumb-content">
+                <h1 class="breadcumb-title">تماس با ما</h1>
+                <ul class="breadcumb-menu">
+                    <li><a href="home-plumbing-service.html">خانه</a></li>
+                    <li>تماس با ما</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--==============================
+Contact Info Area  
+==============================-->
+    <div class="space-top pb-5 mb-4">
+        <div class="container">
+            <div class="row gx-0">
+                <div class="col-lg-4">
+                    <div class="contact-feature">
+                        <div class="contact-feature_icon">
+                            <img src="assets/img/icon/contact_2_1.svg" alt="icon">
+                        </div>
+                        <span class="contact-feature_subtitle">آدرس دفتر :</span>
+                        <h3 class="box-title">تهران، خیابان اقدسیه ،ساختمان 45</h3>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="contact-feature bg-theme">
+                        <div class="contact-feature_icon">
+                            <img src="assets/img/icon/contact_2_2.svg" alt="icon">
+                        </div>
+                        <span class="contact-feature_subtitle">پاسخگوی سوالات شما هستیم!</span>
+                        <h3 class="box-title"><a href="tel:+254621421536">021-97582</a></h3>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="contact-feature">
+                        <div class="contact-feature_icon">
+                            <img src="assets/img/icon/contact_2_3.svg" alt="icon">
+                        </div>
+                        <div class="contact-feature_content">
+                            <span class="contact-feature_subtitle">آدرس پست الکترونیک :</span>
+                            <h3 class="box-title"><a href="mailto:info@plumer.com">info@plumer.com</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--==============================
+Contact Area  
+==============================-->
+    <div class="space-bottom">
+        <div class="container">
+            <div class="bg-smoke bg-bottom-right" data-bg-src="assets/img/bg/contact_bg_2.png">
+                <div class="row">
+                    <div class="col-xl-8 offset-xl-4">
+                        <div class="quote-form-box bg-transparent">
+                            <h4 class="form-title text-center">دریافت مشاوره <span class="text-theme">رایگان</span>
+                            </h4>
+                            <form action="https://theme-preview.ir/html/plumer/demo/mail.php" method="POST" class="contact-form ajax-contact">
+                                <div class="row">
+                                    <div class="form-group col-md-6">
+                                        <input type="text" class="form-control" name="name" id="name"
+                                            placeholder="نام و نام خانوادگی">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <input type="email" class="form-control" name="email" id="email"
+                                            placeholder="آدرس پست الکترونیک">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <input type="tel" class="form-control" name="number" id="number"
+                                            placeholder="شماره تماس">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <select name="subject" id="subject" class="form-select">
+                                            <option value="" disabled selected hidden>انتخاب موضوع</option>
+                                            <option value="AC Installation">نصب AC</option>
+                                            <option value="Plumbing Service">خدمات لوله بازکنی</option>
+                                            <option value="AC Repairing">تعمیرات AC </option>
+                                            <option value="Dust Cleaning"> تعمیر و شستشوی تهویه </option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group col-12">
+                                        <textarea name="message" id="message" cols="30" rows="3" class="form-control"
+                                            placeholder="پیام شما"></textarea>
+                                    </div>
+                                    <div class="form-btn col-12">
+                                        <button class="themeholy-btn btn-fw">اکنون ارسال کنید</button>
+                                    </div>
+                                </div>
+                                <p class="form-messages mb-0 mt-3"></p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="map-sec">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6472.476894120874!2d51.47682928771426!3d35.794079109590854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f8e05067809e725%3A0x2fa93d9313c9d832!2sAqdasiyeh%2C%20District%201%2C%20Tehran%2C%20Tehran%20Province%2C%20Iran!5e0!3m2!1sen!2s!4v1687605734011!5m2!1sen!2s"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+        <div class="widget-area">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <div class="about-logo">
+                                <a href="home-plumbing-service.html"><img src="assets/img/logo-small.svg"
+                                        alt="Plumer"></a>
+                            </div>
+                            <div class="themeholy-widget-schedule">
+                                <h4 class="title">ساعات کاری:</h4>
+                                <p class="schedule-info"><span>شنبه - چهارشنبه</span><span>8:00 صبح - 6:00 عصر</span>
+                                </p>
+                                <p class="schedule-info"><span>پنجشنبه</span><span>9:00 صبح - 5:00 عصر</span></p>
+                                <p class="schedule-info"><span>جمعه</span><span>مجموعه تعطیل می باشد</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget widget_nav_menu footer-widget">
+                            <h3 class="widget_title">دسترسی سریع به لینک ها</h3>
+                            <div class="menu-all-pages-container">
+                                <ul class="menu">
+                                    <li><a href="about.html">درباره ما</a></li>
+                                    <li><a href="project.html">پروژه ها</a></li>
+                                    <li><a href="faq.html">راهنمایی و قوانین</a></li>
+                                    <li><a href="blog.html">وبلاگ</a></li>
+                                    <li><a href="contact.html">تماس با ما</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">آخرین مقالات</h3>
+                            <div class="recent-post-wrap">
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-1.jpg"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">جلوگیری
+                                                از گرفتگی لوله های فاضلاب</a></h4>
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-days"></i>21 خرداد ماه,
+                                                1402</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-2-2.jpg"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">بهترین
+                                                ابزار آلات برای </a></h4>
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-days"></i>22 خرداد ماه,
+                                                1402</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget newsletter-widget footer-widget">
+                            <h3 class="widget_title">خبرنامه</h3>
+                            <p class="footer-text">برای دریافت اخبار و اطلاعیه ها ثبت نام کنید.</p>
+                            <form class="newsletter-form">
+                                <input class="form-control" type="email" placeholder="پست الکترونیک" required="">
+                                <button type="submit" class="themeholy-btn style3">مشترک شوید</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-wrap">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-lg-6">
+                        <p class="copyright-text"> 1402 <i class="fal fa-copyright"></i> تمامی حقوق محفوط است.</p>
+                    </div>
+                    <div class="col-lg-auto text-end d-none d-lg-block">
+                        <div class="social-links">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="shape-mockup" data-top="0%" data-left="0%"><img src="assets/img/shape/footer_shape_1.png"
+                alt="shape"></div>
+        <div class="shape-mockup" data-bottom="0%" data-right="0%"><img src="assets/img/shape/footer_shape_2.png"
+                alt="shape"></div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+                style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+            </path>
+        </svg>
+    </div>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="assets/js/slick.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+
+<!-- Mirrored from theme-preview.ir/html/plumer/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 20:14:57 GMT -->
+</html>

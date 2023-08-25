@@ -1,0 +1,525 @@
+
+<!doctype html>
+<html class="no-js')}}" lang="zxx" dir="rtl">
+
+
+<!-- Mirrored from theme-preview.ir/html/plumer/demo/home-air-conditioner.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 20:11:49 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>تک سرما</title>
+    <meta name="author" content="Taksarma">
+    <meta name="description" content="Plumer - Plumbing & Repair HTML Template">
+    <meta name="keywords" content="Plumer - Plumbing & Repair HTML Template">
+    <meta name="robots" content="INDEX,FOLLOW">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicons - Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" sizes="57x57" href="{{asset('assets/img/favicons/apple-icon-57x57.png')}}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{asset('assets/img/favicons/apple-icon-60x60.png')}}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{asset('assets/img/favicons/apple-icon-72x72.png')}}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{asset('assets/img/favicons/apple-icon-76x76.png')}}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{asset('assets/img/favicons/apple-icon-114x114.png')}}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{asset('assets/img/favicons/apple-icon-120x120.png')}}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{asset('assets/img/favicons/apple-icon-144x144.png')}}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{asset('assets/img/favicons/apple-icon-152x152.png')}}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/img/favicons/apple-icon-180x180.png')}}">
+    <link rel="icon" type="image/png')}}" sizes="192x192" href="{{asset('assets/img/favicons/android-icon-192x192.png')}}">
+    <link rel="icon" type="image/png')}}" sizes="32x32" href="{{asset('assets/img/favicons/favicon-32x32.png')}}">
+    <link rel="icon" type="image/png')}}" sizes="96x96" href="{{asset('assets/img/favicons/favicon-96x96.png')}}">
+    <link rel="icon" type="image/png')}}" sizes="16x16" href="{{asset('assets/img/favicons/favicon-16x16.png')}}">
+    <link rel="manifest" href="{{asset('assets/img/favicons/manifest.json')}}">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png')}}">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" type="text/css" href="{{asset('admin-assets/css/vazir.css')}}">
+
+    <!--==============================
+	  Google Fonts
+	============================== -->
+    <link rel="preconnect" href="../../../../fonts.googleapis.com/index.html">
+    <link rel="preconnect" href="../../../../fonts.gstatic.com/index.html" crossorigin>
+    <link
+        href="../../../../fonts.googleapis.com/css27290.css?family=Outfit:wght@300;400;500;600;700;800;900&amp;family=Roboto:wght@100;300;400;500;700&amp;display=swap"
+        rel="stylesheet">
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="{{asset('assets/css/fontawesome.min.css')}}">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.min.css')}}">
+    <!-- Slick Slider -->
+    <link rel="stylesheet" href="{{asset('assets/css/slick.min.css')}}">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+
+</head>
+
+<body>
+
+
+    <!--[if lte IE 9]>
+    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+
+
+    <!--********************************
+   		Code Start From Here
+	******************************** -->
+
+
+
+
+    <!--==============================
+     Preloader
+  ==============================-->
+    <div class="preloader ">
+        <button class="themeholy-btn style3 preloaderCls">لغو پیش بارگذاری</button>
+        <div class="preloader-inner">
+            <span class="loader"></span>
+        </div>
+    </div>
+    <!--==============================
+    Sidemenu
+============================== -->
+    <div class="sidemenu-wrapper d-none d-lg-block ">
+        <div class="sidemenu-content">
+            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
+            <div class="widget woocommerce widget_shopping_cart">
+                <h3 class="widget_title">سبد خرید</h3>
+                <div class="widget_shopping_cart_content">
+                    <ul class="woocommerce-mini-cart cart_list product_list_widget ">
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="{{asset('assets/img/product/product_thumb_1_1.jpg')}}" alt="Cart Image">سوئیچ
+                                کن</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 940 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="{{asset('assets/img/product/product_thumb_1_2.jpg')}}" alt="Cart Image">شیر سینک
+                                حمام</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 899 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="{{asset('assets/img/product/product_thumb_1_3.jpg')}}" alt="Cart Image">سینک
+                                بوش</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 756 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="{{asset('assets/img/product/product_thumb_1_4.jpg')}}" alt="Cart Image">آچار لوله
+                                قرمز</a>
+                            <span class="quantity">1 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 723 </span> هزار تومان
+                            </span>
+                        </li>
+                        <li class="woocommerce-mini-cart-item mini_cart_item">
+                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
+                            <a href="#"><img src="{{asset('assets/img/product/product_thumb_1_5.jpg')}}" alt="Cart Image">اهرم پیچ
+                                استنلی</a>
+                            <span class="quantity">3 ×
+                                <span class="woocommerce-Price-amount amount">
+                                    <span class="woocommerce-Price-currencySymbol"></span> 108 </span> هزار تومان
+                            </span>
+                        </li>
+                    </ul>
+                    <p class="woocommerce-mini-cart__total total">
+                        <strong>جمع کل :</strong>
+                        <span class="woocommerce-Price-amount amount">
+                            <span class="woocommerce-Price-currencySymbol"></span> 4/742 </span> هزار تومان
+                    </p>
+                    <p class="woocommerce-mini-cart__buttons buttons">
+                        <a href="cart.html" class="themeholy-btn wc-forward"> مشاهده سبد خرید </a>
+                        <a href="checkout.html" class="themeholy-btn checkout wc-forward">تسویه حساب</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="popup-search-box d-none d-lg-block">
+        <button class="searchClose"><i class="fal fa-times"></i></button>
+        <form action="#">
+            <input type="text" placeholder="دنبال چه چیزی می گردید؟">
+            <button type="submit"><i class="fal fa-search"></i></button>
+        </form>
+    </div>
+    <!--==============================
+Mobile Menu
+============================== -->
+    <div class="themeholy-menu-wrapper">
+        <div class="themeholy-menu-area text-center">
+            <button class="themeholy-menu-toggle"><i class="fal fa-times"></i></button>
+            <div class="mobile-logo">
+                <a href="{{route('home')}}"><img src="{{asset('assets/img/logo.svg')}}" alt="تک سرما"></a>
+            </div>
+            <div class="themeholy-mobile-menu">
+                <ul>
+                    <li class="menu-item-has-children">
+                        <a href="{{route('home')}}">خانه</a>
+                        <ul class="sub-menu">
+                            <li><a href="home-plumbing-service.html">خدمات تاسیسات و لوله بازکنی </a></li>
+                            <li><a href="home-air-conditioner.html">تهویه هوا</a></li>
+                            <li><a href="home-electrician.html"> تکنسین برق </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="about.html">درباره ما</a></li>
+                    <li class="menu-item-has-children">
+                        <a href="#">خدمات</a>
+                        <ul class="sub-menu">
+                            <li><a href="service.html">خدمات</a></li>
+                            <li><a href="service-details.html"> جزئیات خدمات</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a href="#">برگه ها</a>
+                        <ul class="sub-menu">
+                            <li class="menu-item-has-children">
+                                <a href="#">فروشگاه آنلاین</a>
+                                <ul class="sub-menu">
+                                    <li><a href="shop.html">فروشگاه</a></li>
+                                    <li><a href="shop-details.html">صفحه تکی فروشگاه</a></li>
+                                    <li><a href="cart.html"> صفحه سبد خرید</a></li>
+                                    <li><a href="checkout.html">تسویه حساب</a></li>
+                                    <li><a href="wishlist.html">علاقه مندی ها</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="team.html">تیم ما</a></li>
+                            <li><a href="team-details.html">صفحه تکی تیم ما</a></li>
+                            <li><a href="project.html">پروژه ها</a></li>
+                            <li><a href="project-details.html">جزئیات پروژه</a></li>
+                            <li><a href="pricing.html">قیمت گذاری</a></li>
+                            <li><a href="faq.html">قوانین و مقررات</a></li>
+                            <li><a href="error.html"> صفحه خطا 404</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a href="#">وبلاگ</a>
+                        <ul class="sub-menu">
+                            <li><a href="blog.html">وبلاگ</a></li>
+                            <li><a href="blog-details.html">صفحه تکی نوشته</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="contact.html">تماس با ما</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--==============================
+	Header Area
+==============================-->
+    <header class="themeholy-header header-layout1 header-layout2 header-layout3">
+        <div class="position-relative">
+            <div class="container themeholy-container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-auto">
+                        <div class="header-logo">
+                            <a href="{{route('home')}}"><img src="{{asset('assets/img/logo.svg')}}" alt="تک سرما"></a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="menu-top">
+                            <div class="row gx-0 justify-content-between align-items-center">
+                                <div class="col-auto d-none d-lg-block">
+                                    <div class="header-info">
+                                        <div class="icon-btn">
+                                            <i class="fas fa-phone"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="header-info_label">تماس با ما:</span>
+                                            <a href="tel:+16326543654" class="header-info_link">02197582</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-auto d-none d-lg-block">
+                                    <div class="header-info">
+                                        <div class="icon-btn">
+                                            <i class="fas fa-messages"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="header-info_label">پست الکترونیک </span>
+                                            <a href="mailto:info@plumer.com"
+                                                class="header-info_link">info@plumer.com</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-auto d-none d-lg-block">
+                                    <div class="header-info">
+                                        <div class="icon-btn">
+                                            <i class="fas fa-location-dot"></i>
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="header-info_label">آدرس دفتر : </span>
+                                            <a href="https://www.google.com/maps" class="header-info_link">تهران
+                                                ،پاسداران ، ساختمان 45</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-auto d-none d-xxl-block">
+                                    <a href="contact.html" class="themeholy-btn style4">مشاوره رایگان</a>
+                                </div>
+                                <div class="col-auto d-lg-none d-block ms-auto">
+                                    <button type="button" class="themeholy-menu-toggle d-block d-lg-none"><i
+                                            class="far fa-bars"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="logo-bg"></div>
+        </div>
+        <div class="sticky-wrapper">
+            <!-- Main Menu Area -->
+            <div class="menu-area">
+                <div class="container themeholy-container">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-auto">
+                            <nav class="main-menu d-none d-lg-inline-block">
+                                <ul>
+                                    <li class="menu-item-has-children">
+                                        <a href="{{route('home')}}">صفحه اصلی</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="home-plumbing-service.html"> خدمات لوله بازکنی و تاسیسات</a>
+                                            </li>
+                                            <li><a href="home-air-conditioner.html">تهویه هوا</a></li>
+                                            <li><a href="home-electrician.html">تکنسین برق</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="about.html">درباره ما</a></li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">خدمات</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="service.html">خدمات</a></li>
+                                            <li><a href="service-details.html">صفحه تکی خدمات</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">برگه ها</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item-has-children">
+                                                <a href="#">فروشگاه آنلاین</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="shop.html">محصولات</a></li>
+                                                    <li><a href="shop-details.html">صفحه تکی محصولات</a></li>
+                                                    <li><a href="cart.html">سبد خرید</a></li>
+                                                    <li><a href="checkout.html">تسویه حساب</a></li>
+                                                    <li><a href="wishlist.html">صفحه محصولات نشان شده</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="team.html">تیم ما</a></li>
+                                            <li><a href="team-details.html">صفحه تکی تیم ما</a></li>
+                                            <li><a href="project.html">پروژه ها</a></li>
+                                            <li><a href="project-details.html">صفحه جزییات پروژه</a></li>
+                                            <li><a href="pricing.html">تعرفه خدمات</a></li>
+                                            <li><a href="faq.html">صفحه قوانین و مقررات</a></li>
+                                            <li><a href="error.html">صفحه خطا 404</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">وبلاگ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="blog.html">نوشته ها</a></li>
+                                            <li><a href="blog-details.html">صفحه تکی نوشته</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="contact.html">تماس با ما</a>
+                                    </li>
+                                </ul>
+                            </nav>
+
+                        </div>
+                        <div class="col-auto d-none d-lg-block">
+                            <div class="header-button">
+                                <button type="button" class="icon-btn searchBoxToggler"><i
+                                        class="fal fa-search"></i></button>
+                                <button type="button" class="icon-btn sideMenuToggler">
+                                    <i class="fal fa-shopping-cart"></i>
+                                    <span class="badge">5</span>
+                                </button>
+                                <a href="wishlist.html" class="icon-btn">
+                                    <i class="fal fa-heart"></i>
+                                    <span class="badge">4</span>
+                                </a>
+                                <div class="social-links">
+                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    @yield('main')
+    <!--==============================
+	Footer Area
+==============================-->
+    <footer class="footer-wrapper footer-layout1">
+        <div class="widget-area">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <div class="about-logo">
+                                <a href="{{route('home')}}"><img src="{{asset('assets/img/logo-small.svg')}}" alt="Taksarma"></a>
+                            </div>
+                            <div class="themeholy-widget-schedule">
+                                <h4 class="title">ساعات کاری:</h4>
+                                <p class="schedule-info"><span>شنبه - چهارشنبه</span><span>8:00 صبح - 6:00 عصر</span>
+                                </p>
+                                <p class="schedule-info"><span>پنجشنبه</span><span>9:00 صبح - 5:00 عصر</span></p>
+                                <p class="schedule-info"><span>جمعه</span><span>مجموعه تعطیل می باشد</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget widget_nav_menu footer-widget">
+                            <h3 class="widget_title">دسترسی سریع به لینک ها</h3>
+                            <div class="menu-all-pages-container">
+                                <ul class="menu">
+                                    <li><a href="about.html">درباره ما</a></li>
+                                    <li><a href="project.html">پروژه ها</a></li>
+                                    <li><a href="faq.html">راهنمایی و قوانین</a></li>
+                                    <li><a href="blog.html">وبلاگ</a></li>
+                                    <li><a href="contact.html">تماس با ما</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">آخرین مقالات</h3>
+                            <div class="recent-post-wrap">
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="{{asset('assets/img/blog/recent-post-2-1.jpg')}}"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">جلوگیری
+                                                از گرفتگی لوله های فاضلاب</a></h4>
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-days"></i>21 خرداد ماه,
+                                                1402</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="{{asset('assets/img/blog/recent-post-2-2.jpg')}}"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">بهترین
+                                                ابزار آلات برای </a></h4>
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-days"></i>22 خرداد ماه,
+                                                1402</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget newsletter-widget footer-widget">
+                            <h3 class="widget_title">خبرنامه</h3>
+                            <p class="footer-text">برای دریافت اخبار و اطلاعیه ها ثبت نام کنید.</p>
+                            <form class="newsletter-form">
+                                <input class="form-control" type="email" placeholder="پست الکترونیک" required="">
+                                <button type="submit" class="themeholy-btn style3">مشترک شوید</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-wrap">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-lg-6">
+                        <p class="copyright-text"> 1402 <i class="fal fa-copyright"></i> تمامی حقوق محفوط است.</p>
+                    </div>
+                    <div class="col-lg-auto text-end d-none d-lg-block">
+                        <div class="social-links">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="shape-mockup" data-top="0%" data-left="0%"><img src="{{asset('assets/img/shape/footer_shape_1.png')}}"
+                alt="shape"></div>
+        <div class="shape-mockup" data-bottom="0%" data-right="0%"><img src="{{asset('assets/img/shape/footer_shape_2.png')}}"
+                alt="shape"></div>
+    </footer>
+    <!--********************************
+			Code End  Here
+	******************************** -->
+
+    <!-- Scroll To Top -->
+    <div class="scroll-top">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+                style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+            </path>
+        </svg>
+    </div>
+
+    <!--==============================
+    All Js File
+============================== -->
+    <!-- Jquery -->
+    <script src="{{asset('assets/js/vendor/jquery-3.6.0.min.js')}}"></script>
+    <!-- Slick Slider -->
+    <script src="{{asset('assets/js/slick.min.js')}}"></script>
+    <!-- Bootstrap -->
+    <script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+    <!-- Magnific Popup -->
+    <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+    <!-- Counter Up -->
+    <script src="{{asset('assets/js/jquery.counterup.min.js')}}"></script>
+    <!-- Range Slider -->
+    <script src="{{asset('assets/js/jquery-ui.min.js')}}"></script>
+    <!-- Isotope Filter -->
+    <script src="{{asset('assets/js/imagesloaded.pkgd.min.js')}}"></script>
+    <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
+
+    <!-- Main Js File -->
+    <script src="{{asset('assets/js/main.js')}}"></script>
+
+</body>
+
+
+<!-- Mirrored from theme-preview.ir/html/plumer/demo/home-air-conditioner.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Aug 2023 20:12:32 GMT -->
+</html>
